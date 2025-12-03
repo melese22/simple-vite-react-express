@@ -28,7 +28,7 @@ A full-stack starter with working examples instead of empty files. I built this 
 
 ```bash
 # Clone and setup your project
-git clone git@github.com:Avinava/simple-vite-react-express.git your-project-name
+git clone git@github.com:melese22/simple-vite-react-express.git your-project-name
 cd your-project-name
 
 # Install dependencies (npm, yarn, or pnpm)
@@ -124,5 +124,6 @@ npm run db:studio    # Open Prisma Studio
 npm run db:reset     # Reset database
 npm run db:seed      # Seed database with sample data
 ```
+
 
 
